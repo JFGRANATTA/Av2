@@ -17,6 +17,15 @@ img{
     height: 300px;
     margin: 60px;
     margin-left: 120px;
+  border: 4px solid blue;
+}
+.cabecalho{background-color: white;
+display: flex;
+
+}
+.logoimg{
+    width: 300px;
+    margin-left: 50px;
 }
 
 
