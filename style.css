@@ -27,6 +27,16 @@ display: flex;
     width: 300px;
     margin-left: 50px;
 }
-
-
+.listacabecalho{
+    display:flex;
+    margin-left:730px;
+    margin-top: 125px;
+}
+.item_lista_cabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    color:black;
+    front-size: 30xp;
+    padding-left: 35px;
+}
 
